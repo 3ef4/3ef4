@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @3ef4
+- 👀 I’m interested in Programming and Electronics 
+- 🌱 I’m currently learning Medical Devices programming and controling systems
